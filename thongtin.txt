@@ -1,2 +1,9 @@
 Dong 1 tao boi BranchA
+<<<<<<< HEAD
 Ky ten: BranchA 
+=======
+Dong nay tao boi BranchB
+
+
+
+>>>>>>> 5a630be2bfc5badb0b3e029d126909083e5ca78c
